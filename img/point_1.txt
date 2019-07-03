@@ -1,2 +1,0 @@
-Latitude =  -45.7722
-Longitude =  -173.1890
